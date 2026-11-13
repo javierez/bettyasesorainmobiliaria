@@ -1,0 +1,20 @@
+{
+  "row": {
+    "features_props": "{\"pages\":{\"servicios\":true,\"nosotros\":true},\"logoSize\":\"large\",\"heroSize\":\"full\",\"servicesStyle\":\"icons\",\"menuLabels\":{\"segundaMano\":\"Compraventa\",\"inversion\":\"\"},\"sections\":{\"aboutImage\":true}}"
+  },
+  "reviews": [
+    {
+      "testimonial_id": "65",
+      "name": "Giuliana Kaufman",
+      "avatar": null
+    }
+  ],
+  "preferences": {
+    "colorPalette": [
+      "#957d56",
+      "#bfae92"
+    ],
+    "logoTransparent": "https://vesta-crm-prod-eu-e966e353.s3.eu-west-1.amazonaws.com/accounts/224/branding/logo_transparent_mtM4k1pV.png",
+    "brandingUpdatedAt": "2026-10-09T12:14:25.081Z"
+  }
+}

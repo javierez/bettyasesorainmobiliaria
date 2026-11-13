@@ -1,0 +1,51 @@
+[
+  {
+    "listing_id": "1393365",
+    "status": "En Alquiler",
+    "publish_to_website": false,
+    "is_featured": false,
+    "title": "Piso en Calle Hiedra 90 (El Soto de la Moraleja)"
+  },
+  {
+    "listing_id": "1393366",
+    "status": "En Alquiler",
+    "publish_to_website": false,
+    "is_featured": false,
+    "title": "Piso en Calle Españoleto 16 (Chamberí)"
+  },
+  {
+    "listing_id": "1393367",
+    "status": "En Alquiler",
+    "publish_to_website": false,
+    "is_featured": false,
+    "title": "Piso en Calle Begonia 165 (El Soto de la Moraleja)"
+  },
+  {
+    "listing_id": "1393368",
+    "status": "En Venta",
+    "publish_to_website": false,
+    "is_featured": false,
+    "title": "Casa en Paseo Parques 19 (Encinar de los Reyes)"
+  },
+  {
+    "listing_id": "1393369",
+    "status": "En Alquiler",
+    "publish_to_website": false,
+    "is_featured": false,
+    "title": "Casa en Calle de la Begonia (El Soto de la Moraleja)"
+  },
+  {
+    "listing_id": "1393358",
+    "status": "En Venta",
+    "publish_to_website": false,
+    "is_featured": false,
+    "title": "Piso en Avenida Menendez Pelayo (Retiro)"
+  },
+  {
+    "listing_id": "1393363",
+    "status": "En Venta",
+    "publish_to_website": false,
+    "is_featured": false,
+    "title": "Piso en Calle Recoletos (Barrio de Salamanca)"
+  }
+]
